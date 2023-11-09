@@ -54,7 +54,7 @@ def get_nightly_hotel_price(city):
 
 def run_conversation():
     messages = [
-        {"role": "user", "content": "What is the Capital of India"}
+        {"role": "user", "content": "How much would a 3 day trip to New York, Paris, and Tokyo cost?"}
     ]
     tools = [
         {
