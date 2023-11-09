@@ -1,5 +1,5 @@
 # openai-function-calling
-Example of new Openai Function Calling
+OpenAI's new parallel function calling API Example
 # Install dependencies:
 pip install -r requirements.txt
 
